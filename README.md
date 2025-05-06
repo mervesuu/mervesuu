@@ -12,8 +12,8 @@
 - 🔭 Şu an **yeni projeler geliştirerek** kendimi geliştiriyorum  
 - 🌱 Şu an öğreniyorum: `React`, `Node.js`, `ASP.NET Core`
 - 💬 Sor bana: `C#`, `HTML`, `CSS`, `JavaScript`
-- 📫 Bana ulaş: [merve@example.com](mailto:merve@example.com) <!-- burayı gerçek e-posta ile değiştir -->
-- 🌐 Web sitem: [www.orneksite.com](https://www.orneksite.com) <!-- burayı varsa kendi site adresinle değiştir -->
+- 📫 Bana ulaş: [bilgi@mahihuma.com.tr](bilgi@mahihuma.com.tr) <!-- burayı gerçek e-posta ile değiştir -->
+- 🌐 Web sitem: [http://mahihuma.com.tr/](http://mahihuma.com.tr/) <!-- burayı varsa kendi site adresinle değiştir -->
 
 ---
 
@@ -34,24 +34,13 @@
 ### 📊 GitHub İstatistiklerim:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mervesu&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mervesuu&show_icons=true&theme=radical" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mervesu&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merveusu&theme=radical" alt="streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervesu&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervesuu&layout=compact&theme=radical" alt="top langs" />
 </p>
 
 ---
-
-### ☕ Birlikte kodlayalım!
-Her zaman yeni şeyler öğrenmeye ve üretmeye açığım. Proje fikirlerin varsa, konuşalım!
-
----
-
-> 💬 Not: Bu dosyada `mervesu`, `merve@example.com`, ve `www.orneksite.com` gibi yerleri kendi bilgilerinizle güncellemeyi unutma!
-
----
-
-İstersen bu README'ye animasyonlu rozetler, ziyaretçi sayacı, gif'li tanıtım veya dark/light tema desteği gibi şeyler de ekleyebiliriz. Böyle bir şey ister misin?
